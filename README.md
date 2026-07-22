@@ -1,5 +1,3 @@
-
-
 <html lang="de">
 <head>
 <meta charset="UTF-8">
@@ -16,7 +14,6 @@
 
 <section>
 
-</div>
 
 </section>
 
@@ -64,7 +61,7 @@
 
 <h2>Online-Anfrage</h2>
 
-<Per Mail > Zajontztim@gmail.com>
+<Per Mail: Zajontztim@gmail.com>
 
 
 © 2026 Premium Wohnwagenvermietung
