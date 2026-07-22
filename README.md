@@ -60,8 +60,7 @@
 <section id="anfrage">
 
 <h2>Online-Anfrage</h2>
-
-<Per Mail: Zajontztim@gmail.com>
+Per Mail: Zajontztim@gmail.com
 
 
 
