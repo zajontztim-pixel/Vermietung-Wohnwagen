@@ -1,5 +1,5 @@
 <p>Dein Urlaub beginnt hier.</p>
-<a class="btn" href="mailto:zajontztim@gmail.com?subject=Wohnwagenanfrage&body=Hallo,%0A%0AIch möchte den Wohnwagen gerne mieten.%0A%0AWunschtermin:%20TT.MM.JJJJ%20bis%20TT.MM.JJJJ%0AName:%20%0ATelefon:%20%0A%0AVielen%20Dank!">
+<a class="btn" href="mailto:zajontztim@gmail.com?subject=Wohnwagenanfrage&body=Hallo,%0A%0AIch möchte den Wohnwagen gerne mieten.%0A%0AWunschtermin:%20TT.MM%20bis%20TT.MM%0AName:%20%0ATelefon:%20%0A%0AVielen%20Dank!">
   Jetzt anfragen
 </a>
 
