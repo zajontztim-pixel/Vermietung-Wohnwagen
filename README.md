@@ -53,8 +53,8 @@
 
 <section id="anfrage">
 
-<h2>Anfrage</h2>
-Per Mail: zajontztim@gmail.com
+<h2>Anfrage Per Mail:</h2> zajontztim@gmail.com
+
 
 </div>
 </div>
