@@ -53,8 +53,7 @@
   </div>
 </section>
   </main> 
-  Wir freuen uns auf eure Anfragen!
-  
+  <Wir freuen uns auf eure Anfragen!>
   <footer>
     © 2026 Premium Wohnwagenvermietung
   </footer>
