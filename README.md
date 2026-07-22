@@ -1,5 +1,5 @@
 <p>Dein Urlaub beginnt hier.</p>
-<a class="btn" href="#anfrage">Jetzt anfragen</a>
+<a class="btn" href="mailto:zajontztim@gmail.com">Jetzt anfragen</a>
 
 <section>
 
@@ -39,9 +39,3 @@
     <h2>Verfügbarkeit</h2>
     <p>🟢 Aktuell verfügbar</p>
   </div>
-
-  <div class="item">
-    <h2>Anfrage per E-Mail</h2>
-    <a href="mailto:zajontztim@gmail.com">zajontztim@gmail.com</a>
-  </div>
-</section>
