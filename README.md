@@ -1,8 +1,8 @@
 <body>
   <main>
     <header>
-<div>
-<h1>Wohnwagenvermietung</h1>
+    </header>
+    <div>
 <p>Dein Urlaub beginnt hier.</p>
 <a class="btn" href="#anfrage">Jetzt anfragen</a>
 </div>
