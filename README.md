@@ -64,19 +64,7 @@
 
 <h2>Online-Anfrage</h2>
 
-<form>
-
-<input type="text" placeholder="Name" required>
-
-<input type="email" placeholder="E-Mail" required>
-
-<input type="date" required>
-
-<input type="date" required>
-
-<textarea rows="5" placeholder="Nachricht"></textarea>
-
-<button>Anfrage senden</button>
+<Per Mail > Zajontztim@gmail.com>
 
 </form>
 
