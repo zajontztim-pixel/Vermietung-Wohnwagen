@@ -1,8 +1,3 @@
-<body>
-  <main>
-    <header>
-    </header>
-    <div>
 <p>Dein Urlaub beginnt hier.</p>
 <a class="btn" href="#anfrage">Jetzt anfragen</a>
 </div>
