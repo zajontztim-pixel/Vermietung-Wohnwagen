@@ -1,6 +1,6 @@
 <header>
 <div>
-<h1>Premium Wohnwagenvermietung</h1>
+<h1>Wohnwagenvermietung</h1>
 <p>Dein Urlaub beginnt hier.</p>
 <a class="btn" href="#anfrage">Jetzt anfragen</a>
 </div>
@@ -50,7 +50,6 @@
     <a href="mailto:zajontztim@gmail.com">zajontztim@gmail.com</a>
   </div>
 </section>
-
-
-  
-   © 2026 Premium Wohnwagenvermietung
+<footer>
+  <p>© 2026 Premium Wohnwagenvermietung</p>
+</footer>
