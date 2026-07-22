@@ -39,21 +39,17 @@
 
 <section>
 
-<h2>Verfügbarkeit</h2>
+<section class="kontakt">
+  <div class="item">
+    <h2>Verfügbarkeit</h2>
+    <p>🟢 Aktuell verfügbar</p>
+  </div>
 
-<div class="status">
-<div class="available">
-🟢 Aktuell verfügbar
-</div>
-</div>
-
-<div id="calendar"></div>
-
+  <div class="item">
+    <h2>Anfrage per E-Mail</h2>
+    <a href="mailto:zajontztim@gmail.com">zajontztim@gmail.com</a>
+  </div>
 </section>
-
-<section id="anfrage">
-<h2>Anfrage Per E-Mail:<h2>
-zajontztim@gmail.com 
 
 
   
