@@ -53,7 +53,6 @@
   </div>
 </section>
   </main> 
-  </div> 
   </footer>
     © 2026 Premium Wohnwagenvermietung
   </footer>
