@@ -52,8 +52,9 @@
     <a href="mailto:zajontztim@gmail.com">zajontztim@gmail.com</a>
   </div>
 </section>
-  </main>
-
+  </main> 
+  Wir freuen uns auf eure Anfragen!
+  
   <footer>
     © 2026 Premium Wohnwagenvermietung
   </footer>
