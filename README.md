@@ -1,7 +1,5 @@
 <p>Dein Urlaub beginnt hier.</p>
 <a class="btn" href="#anfrage">Jetzt anfragen</a>
-</div>
-</header>
 
 <section>
 
