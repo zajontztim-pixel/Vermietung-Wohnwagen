@@ -53,7 +53,8 @@
 
 <section id="anfrage">
 
-<h2>Anfrage Per E-Mail:<h2>zajontztim@gmail.com 
+<h2>Anfrage Per E-Mail:<h2>
+zajontztim@gmail.com 
 
 
-© 2026 Premium Wohnwagenvermietung
+   © 2026 Premium Wohnwagenvermietung
