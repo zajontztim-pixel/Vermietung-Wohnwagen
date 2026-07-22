@@ -1,4 +1,4 @@
-# Wohnwagenvermietung 
+
 
 <html lang="de">
 <head>
@@ -66,10 +66,5 @@
 
 <Per Mail > Zajontztim@gmail.com>
 
-</form>
-
-</section>
-
-<footer>
 
 © 2026 Premium Wohnwagenvermietung
