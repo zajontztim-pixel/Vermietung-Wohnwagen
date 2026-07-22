@@ -143,7 +143,7 @@ margin-top:50px;
 <div class="features">
 
 <div class="box">
-<h3>4 Schlafplätze</h3>
+<h3>2 Schlafplätze</h3>
 <p>Ideal für Familien.</p>
 </div>
 
@@ -152,10 +152,6 @@ margin-top:50px;
 <p>Kühlschrank, Herd und Spüle.</p>
 </div>
 
-<div class="box">
-<h3>Heizung</h3>
-<p>Perfekt für jede Jahreszeit.</p>
-</div>
 
 <div class="box">
 <h3>Markise</h3>
@@ -205,48 +201,3 @@ margin-top:50px;
 <footer>
 
 © 2026 Premium Wohnwagenvermietung
-
-</footer>
-
-<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
-
-<script>
-
-document.addEventListener("DOMContentLoaded", function(){
-
-var calendarEl=document.getElementById("calendar");
-
-var calendar=new FullCalendar.Calendar(calendarEl,{
-
-initialView:"dayGridMonth",
-
-locale:"de",
-
-events:[
-
-{
-title:"Vermietet",
-start:"2026-07-24",
-end:"2026-07-29",
-color:"red"
-},
-
-{
-title:"Reserviert",
-start:"2026-08-10",
-end:"2026-08-15",
-color:"orange"
-}
-
-]
-
-});
-
-calendar.render();
-
-});
-
-</script>
-
-</body>
-</html>
